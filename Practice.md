@@ -8,3 +8,5 @@ change 2
 
 Code addition
 New code addition
+
+### ДЗ по семинару 2 введение в контроль версий
